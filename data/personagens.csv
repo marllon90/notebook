@@ -1,4 +1,9 @@
-personagem,altura
-panda,159
-roberto, 145
-c, 200
+personagem,altura,idade,amigos
+damon,1.77,178,70
+stefan,1.80,170,100
+elena,1.68,17,80
+katherine,1.68,567,10
+caroline,1.72,17,70
+bonnie,1.57,17,80
+klaus,1.80,1059,30
+elijah,1.80,1062,20
